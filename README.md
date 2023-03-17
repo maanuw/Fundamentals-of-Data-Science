@@ -1,2 +1,26 @@
 # Fundamentals-of-Data-Science
 Design and implementation of a data mart, as well as the exploration of this data mart using online analytic processing (OLAP), information visualization and data mining.
+
+Contributors
+- Manav Patel
+- Moumin Farah
+- Othmane Ayoub
+
+
+## Deliverable 1 - Conceptual Design
+Implement a dimensional model detailing initial design of the project Data Mart
+- Declaration of grain for the Data Mart.
+- Detailed conceptualization of the dimensions and dimensional attributes.
+- Detailed conceptualization of the measures and facts attributes.
+- Detailed explaination of assumptions carried on.
+- Detailed summarization of "10 Design mistakes" avoided or handled through the conceptualization process.
+
+## Deliverable 2 - Physical Design
+Converting the conceptual design from the first deliverable into a physical design by following the ETL(Extraction, Transform and Load) data staging steps.
+Populated the Data Mart as follows:
+- Extracting data from various sources. (Check out the reference section of this document)
+- Transformation: Data cleaning (handling missing values, typos, and outliers, removing duplicates, converting data types etc.) 
+transforming the data into a format that can be used for analysis (i.e., normalizing or scaling the data), data integration, data discretization (i.e., converting continuous data into discrete data by grouping it into bins or categories), Feature engineering (i.e., creating new features from existing data that may be more relevant or useful for analysis). This step may also involve aggregating or summarizing data.
+- Loading: Loading the final integrated dataset.
+Finally creating the the data mart using a Database Management system. (Postgres).
+## References
