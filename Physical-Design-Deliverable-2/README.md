@@ -32,7 +32,7 @@ Finally creating the the data mart using a Database Management system. (Postgres
 ## Game Dimension
 ![fact-table](./assets/img/game.png)
 
-## Test Query
+## Test Queries
 ![fact-table](./assets/img/sql_query.png)
 ![fact-table](./assets/img/sql_query2.png)
 ## References
