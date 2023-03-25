@@ -24,7 +24,7 @@ Finally creating the the data mart using a Database Management system. (Postgres
 - DBMS used postgres and pgadmin
 
 ## Updated conceptual Design as per new physical design
-![updated-model](/Users/mpatel4/Desktop/school/CSI_4142/project/Fundamentals-of-Data-Science/Physical-Design-Deliverable-2/assets/model.png)
+![updated-model](./assets/model.png)
 ## References
 List of data sources used for each dimension of our conceptual design.
 - Game Dimension
