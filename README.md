@@ -26,8 +26,8 @@ Finally creating the the data mart using a Database Management system. (Postgres
 
 
 In order to be able to see the differents processes' script please refer to the following links:
-- [Publisher Dimention](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/assets/publisher/Publisher.ipynb)
-- [Game Dimension](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/assets/publisher/game.ipynb)
+- [Publisher Dimention](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/Publisher.ipynb)
+- [Game Dimension](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/game.ipynb)
 ## References
 List of data sources used for each dimension of our conceptual design.
 - Game Dimension
