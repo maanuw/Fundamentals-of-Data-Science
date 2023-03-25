@@ -14,12 +14,17 @@ Finally creating the the data mart using a Database Management system. (Postgres
 - [Publisher Dimention](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/Publisher.ipynb)
 - [Game Dimension](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/game.ipynb)
 
-# Challenges
+## Challenges
 - The domain chosen by our team surprisingly has very scarcely available open source data.
 - Our team had to source data from multiple sources in order for us to be able to converge these data points into our data mart.
 - Our sourced data required alot of preprocessing.
 - We had to find methods to deal with missing data as explained in the Game Dimension notebook.
 
+## Dimensions and Fact table on DBMS
+- DBMS used postgres and pgadmin
+
+## Updated conceptual Design as per new physical design
+![updated-model](./assets/model.png)
 ## References
 List of data sources used for each dimension of our conceptual design.
 - Game Dimension
