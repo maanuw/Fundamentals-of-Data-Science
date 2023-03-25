@@ -17,7 +17,8 @@ Finally creating the the data mart using a Database Management system. (Postgres
 # Challenges
 - The domain chosen by our team surprisingly has very scarcely available open source data.
 - Our team had to source data from multiple sources in order for us to be able to converge these data points into our data mart.
-- Our sourced data required alot of preprocessing
+- Our sourced data required alot of preprocessing.
+- We had to find methods to deal with missing data as explained in the Game Dimension notebook.
 
 ## References
 List of data sources used for each dimension of our conceptual design.
