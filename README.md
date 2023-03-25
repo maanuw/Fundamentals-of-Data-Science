@@ -23,6 +23,8 @@ Populated the Data Mart as follows:
 transforming the data into a format that can be used for analysis (i.e., normalizing or scaling the data), data integration, data discretization (i.e., converting continuous data into discrete data by grouping it into bins or categories), Feature engineering (i.e., creating new features from existing data that may be more relevant or useful for analysis). This step may also involve aggregating or summarizing data.
 - Loading: Loading the final integrated dataset.
 Finally creating the the data mart using a Database Management system. (Postgres).
+To be able to see the differents processes' script please refer to the following links:
+- (Publisher Dimention)[https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/assets/publisher/Publisher.ipynb]
 ## References
 List of data sources used for each dimension of our conceptual design.
 - Game Dimension
