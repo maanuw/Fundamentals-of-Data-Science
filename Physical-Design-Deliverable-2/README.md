@@ -29,6 +29,9 @@ Finally creating the the data mart using a Database Management system. (Postgres
 ## Fact Table Image in database
 ![fact-table](./assets/img/fact_table.png)
 
+## Game Dimension
+![fact-table](./assets/img/game.png)
+
 ## Test Query
 ![fact-table](./assets/img/sql_query.png)
 ![fact-table](./assets/img/sql_query2.png)
