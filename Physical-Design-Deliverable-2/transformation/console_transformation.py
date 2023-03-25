@@ -37,3 +37,4 @@ df['Sales'] = df['Sales'].astype(int)
 # Write the cleaned data back to the CSV file
 df.to_csv(file_path, index=False)
 
+
