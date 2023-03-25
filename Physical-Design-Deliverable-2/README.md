@@ -28,6 +28,9 @@ Finally creating the the data mart using a Database Management system. (Postgres
 
 ## Fact Table Image in database
 ![fact-table](./assets/img/fact_table.png)
+
+## Test Query
+![fact-table](./assets/img/sql_query.png)
 ## References
 List of data sources used for each dimension of our conceptual design.
 - Game Dimension
