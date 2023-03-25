@@ -20,6 +20,11 @@ Finally creating the the data mart using a Database Management system. (Postgres
 - Our sourced data required alot of preprocessing.
 - We had to find methods to deal with missing data as explained in the Game Dimension notebook.
 
+## Dimensions and Fact table on DBMS
+- DBMS used postgres and pgadmin
+
+## Updated conceptual Design as per new physical design
+![updated-model](/Users/mpatel4/Desktop/school/CSI_4142/project/Fundamentals-of-Data-Science/Physical-Design-Deliverable-2/assets/Screen Shot 2023-03-25 at 12.40.36 AM.png)
 ## References
 List of data sources used for each dimension of our conceptual design.
 - Game Dimension
