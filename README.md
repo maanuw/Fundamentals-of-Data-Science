@@ -32,6 +32,6 @@ List of data sources used for each dimension of our conceptual design.
     - `Physical-Design-Deliverable-2/assets/games/imdb-videogames.csv` : [Data Source](https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games?select=imdb-videogames.csv)
     - `Physical-Design-Deliverable-2/assets/games/hltb.jsonlines` : [Data Source](https://www.kaggle.com/datasets/baraazaid/how-long-to-beat-video-games)
 - Publisher Dimension
-    - `Physical-Design-Deliverable-2/assets/publisher/` : [Data Source](https://www.kaggle.com/datasets/andreshg/videogamescompaniesregions?select=video-games-developers.csv)
+    - `Physical-Design-Deliverable-2/assets/publisher/` : [Data Source](https://vginsights.com/publishers-database)
 - Console Dimension 
     - `Physical-Design-Deliverable-2/assets/console/` : [Data Source](https://www.kaggle.com/datasets/jaimepazlopes/game-console-manufactor-and-sales)
