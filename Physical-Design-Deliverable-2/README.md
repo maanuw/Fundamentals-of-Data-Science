@@ -24,17 +24,17 @@ Finally creating the the data mart using a Database Management system. (Postgres
 - DBMS used postgres and pgadmin
 
 ## Updated conceptual Design as per new physical design
-![updated-model](./assets/img/model.png)
+![updated-model](../img/model.png)
 
 ## Fact Table Image in database
-![fact-table](./assets/img/fact_table.png)
+![fact-table](../img/fact_table.png)
 
 ## Game Dimension
-![fact-table](./assets/img/game.png)
+![fact-table](../img/game.png)
 
 ## Test Queries
-![fact-table](./assets/img/sql_query.png)
-![fact-table](./assets/img/sql_query2.png)
+![fact-table](../img/sql_query.png)
+![fact-table](..s/img/sql_query2.png)
 ## References
 List of data sources used for each dimension of our conceptual design.
 - Game Dimension
