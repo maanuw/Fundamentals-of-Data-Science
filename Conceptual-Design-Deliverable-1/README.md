@@ -3,7 +3,7 @@
 ## Conceptual model:
 ![updated-model](../img/model.png)
 
-## Dimensions and diemensional attributes:
+## Dimensions and dimensional attributes:
 ### Publisher Dimension:
 Publishers database is a list of all the video game publishers on Steam.
 | Name                 | Type     | Description                                        |
@@ -33,4 +33,4 @@ Publishers database is a list of all the video game publishers on Steam.
 ## Assumptions:
 
 ## Issues and Challenges:
-Publisher database contains only video games publisher from steam only.
+Publisher database contains video game publishers from steam only.
