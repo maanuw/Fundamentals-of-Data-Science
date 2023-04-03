@@ -8,7 +8,7 @@
 Publishers database is a list of all the video game publishers on Steam.
 | Name                 | Type     | Description                                        |
 |----------------------|----------|----------------------------------------------------|
-| Name                 | str      | Publisher Name                                     |
+| Name(PK)             | str      | Publisher Name                                     |
 | Classification       | Category | Game Classification (e.g. AAA, Indie ...)          |
 | Released_games       | int      | Number of Released Games                           |
 | Unreleased_Games     | int      | Number of unreleased Games                         |
