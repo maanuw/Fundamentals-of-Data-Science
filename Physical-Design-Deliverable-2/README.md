@@ -34,14 +34,5 @@ Finally creating the the data mart using a Database Management system. (Postgres
 
 ## Test Queries
 ![fact-table](../img/sql_query.png)
-![fact-table](..s/img/sql_query2.png)
-## References
-List of data sources used for each dimension of our conceptual design.
-- Game Dimension
-    - `Physical-Design-Deliverable-2/assets/games/vgsales.csv` : [Data Source](https://www.kaggle.com/datasets/gregorut/videogamesales)
-    - `Physical-Design-Deliverable-2/assets/games/imdb-videogames.csv` : [Data Source](https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games?select=imdb-videogames.csv)
-    - `Physical-Design-Deliverable-2/assets/games/hltb.jsonlines` : [Data Source](https://www.kaggle.com/datasets/baraazaid/how-long-to-beat-video-games)
-- Publisher Dimension
-    - `Physical-Design-Deliverable-2/assets/publisher/` : [Data Source](https://www.kaggle.com/datasets/andreshg/videogamescompaniesregions?select=video-games-developers.csv)
-- Console Dimension 
-    - `Physical-Design-Deliverable-2/assets/console/` : [Data Source](https://www.kaggle.com/datasets/jaimepazlopes/game-console-manufactor-and-sales)
+![fact-table](../img/sql_query2.png)
+
