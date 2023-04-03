@@ -7,7 +7,7 @@ Contributors
 - Othmane Ayoub
 
 
-## Deliverable 1 - Conceptual Design
+## [Deliverable 1 - Conceptual Design](https://github.com/maanuw/Fundamentals-of-Data-Science/tree/main/Conceptual-Design-Deliverable-1)
 Implement a dimensional model detailing initial design of the project Data Mart
 - Declaration of grain for the Data Mart.
 - Detailed conceptualization of the dimensions and dimensional attributes.
@@ -15,7 +15,7 @@ Implement a dimensional model detailing initial design of the project Data Mart
 - Detailed explaination of assumptions carried on.
 - Detailed summarization of "10 Design mistakes" avoided or handled through the conceptualization process.
 
-## Deliverable 2 - Physical Design
+## [Deliverable 2 - Physical Design](https://github.com/maanuw/Fundamentals-of-Data-Science/tree/main/Physical-Design-Deliverable-2)
 Converting the conceptual design from the first deliverable into a physical design by following the ETL(Extraction, Transform and Load) data staging steps.
 Populated the Data Mart as follows:
 - Extracting data from various sources. (Check out the reference section of this document)
@@ -25,9 +25,6 @@ transforming the data into a format that can be used for analysis (i.e., normali
 Finally creating the the data mart using a Database Management system. (Postgres).
 
 
-In order to be able to see the differents processes' script please refer to the following links:
-- [Publisher Dimention](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/Publisher.ipynb)
-- [Game Dimension](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/game.ipynb)
 ## References
 List of data sources used for each dimension of our conceptual design.
 - Game Dimension
