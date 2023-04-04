@@ -58,7 +58,7 @@ Console dimension is a list of all the video game consoles.
 | Game Key(PFK)                      | str      | Game Key from game dimension.                          |
 | Publisher Key(PFK)                 | str      | Publisher key from publisher dimension                 |
 | Console Key (PFK)                  | str      | Console key from console dimension.                    |
-| NA_Sales                           | int      | Measure of sales in North America.                     |
+| NA_Sales                           | float    | Measure of sales in North America.                     |
 | EU_Sales                           | float    | Measure of sales in Europe.                            |
 | JP_Sales                           | float    | Measure of sales in Japan.                             |
 | Other_Sales                        | float    | Measure of sales in other countries.                   |
