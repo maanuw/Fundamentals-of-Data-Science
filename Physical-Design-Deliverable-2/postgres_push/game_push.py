@@ -6,7 +6,7 @@ conn = psycopg2.connect(host="localhost", database="postgres", user="postgres", 
 cur = conn.cursor()
 
 # Define the path to the CSV file
-file_path = 'C:/Users/yfmad/Fundamentals-of-Data-Science/Physical-Design-Deliverable-2/assets/game/game_dimension.csv'
+file_path = 'C:/Users/yfmad/Fundamentals-of-Data-Science/Physical-Design-Deliverable-2/assets/game/game_dimension_1.csv'
 
 # Read the CSV file
 df = pd.read_csv(file_path)

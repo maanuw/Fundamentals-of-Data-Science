@@ -12,6 +12,8 @@ WIN1252 = 'cp1252'
 
 # Define a function to encode a string into WIN1252 and replace any problematic characters with a replacement value
 def encode_string(value, replacement=''):
+    if isinstance(value, bytes):
+        return value.decode(WIN1252)
     try:
         encoded_value = value.encode(WIN1252)
     except UnicodeEncodeError as e:
@@ -20,9 +22,24 @@ def encode_string(value, replacement=''):
             encoded_value = replacement
     return encoded_value
 
+# Define a function to decode a string from WIN1252 to regular string
+def decode_string(value):
+    try:
+        decoded_value = value.decode(WIN1252)
+    except UnicodeDecodeError as e:
+        decoded_value = value.decode(WIN1252, errors='ignore')
+        if not decoded_value:
+            decoded_value = ""
+    return decoded_value
+
+
 # Encode all string columns in the DataFrame into WIN1252
 for col in df.select_dtypes(include='object'):
     df[col] = df[col].apply(encode_string)
+
+# Decode all the string columns in the DataFrame
+for col in df.select_dtypes(include=['object']):
+    df[col] = df[col].str.decode(WIN1252)
 
 # Drop rows where the 'Name' column is empty or NaN
 df = df.dropna(subset=['Name'])
@@ -75,3 +92,5 @@ print("Number of rows after deletion:", len(df))
 
 # Write the cleaned data back to the CSV file
 df.to_csv(file_path, index=False)
+
+

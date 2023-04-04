@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read the CSV file into a pandas DataFrame
-file_path = 'C:/Users/yfmad/Fundamentals-of-Data-Science/Physical-Design-Deliverable-2/assets/game/game_dimension.csv'
+file_path = 'C:/Users/yfmad/Fundamentals-of-Data-Science/Physical-Design-Deliverable-2/assets/game/game_dimension_1.csv'
 df = pd.read_csv(file_path)
 
 # Identify duplicate rows
