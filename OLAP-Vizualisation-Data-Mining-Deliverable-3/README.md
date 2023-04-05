@@ -7,7 +7,8 @@
 # OLAP combination
 This SQL statement uses the WHERE clause to filter for the "Action" genre and the 2010 and 2011 years. It then uses the GROUP BY clause to group the data by year and genre, and the SUM function to calculate the total global sales for each group. The result set will contain the global sales data for the "Action" genre during 2010 and 2011.
 ![fact-table](../img/query_5.JPG)
-
+# Drill Down
+This query drills down from the year dimension to the platform dimension, and calculates the total sales of video games in North America by year and by platform for the years 2010-2012.
 ![fact-table](../img/query_6.png)
 # Iceberg
 ![fact-table](../img/query_7.JPG)
