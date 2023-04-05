@@ -1,3 +1,14 @@
+## Queries
+
+# Slice
+![fact-table](../img/query_3.JPG)
+# Dice
+![fact-table](../img/query_4.JPG)
+![fact-table](../img/query_5.JPG)
+![fact-table](../img/query_6.png)
+# Iceberg
+![fact-table](../img/query_7.JPG)
+
 ## Vizualisation
 
 # Dice operation : Taking the subset of global sales (EU Sales)
