@@ -14,6 +14,7 @@ Finally creating the the data mart using a Database Management system. (Postgres
 - [Publisher Dimention](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/Publisher.ipynb)
 - [Game Dimension](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/game.ipynb)
 - [Console Dimension](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/Console.ipynb)
+- [Fact Table](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/Merge_to_FTable.ipynb)
 
 ## Challenges
 - The domain chosen by our team surprisingly has very scarcely available open source data.
