@@ -21,8 +21,6 @@ But if for example we have multiple primary keys and we still have duplicates (r
 ## Dimensions and Fact table on DBMS
 - DBMS used postgres and pgadmin
 
-## Updated conceptual Design as per new physical design
-![updated-model](../img/model.png)
 
 ## Fact Table Image in database
 ![fact-table](../img/fact_table.png)
