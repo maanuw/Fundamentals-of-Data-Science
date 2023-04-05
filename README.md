@@ -23,7 +23,7 @@ transforming the data into a format that can be used for analysis (i.e., normali
 - Loading: Loading the final integrated dataset.
 Finally creating the the data mart using a Database Management system. (Postgres).
 
-## Delivrable 3 - OLAP, Information Visualization and Data Mining (In progress)
+## [Deliverable 3 - OLAP Vizualisation Data Mining](https://github.com/maanuw/Fundamentals-of-Data-Science/tree/main/OLAP-Vizualisation-Data-Mining-Deliverable-3)
 
 ## References
 List of data sources used for each dimension of our conceptual design.
