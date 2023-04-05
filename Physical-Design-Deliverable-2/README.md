@@ -31,4 +31,8 @@ But if for example we have multiple primary keys and we still have duplicates (r
 ## Test Queries
 ![fact-table](../img/sql_query.png)
 ![fact-table](../img/query_3.JPG)
+![fact-table](../img/query_4.JPG)
+![fact-table](../img/query_5.JPG)
+![fact-table](../img/query_6.png)
+![fact-table](../img/query_7.JPG)
 
