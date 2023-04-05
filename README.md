@@ -25,6 +25,10 @@ Finally creating the the data mart using a Database Management system. (Postgres
 
 ## [Deliverable 3 - OLAP Vizualisation Data Mining](https://github.com/maanuw/Fundamentals-of-Data-Science/tree/main/OLAP-Vizualisation-Data-Mining-Deliverable-3)
 
+Part A.1. Standard OLAP operations – 8 queries in total
+Part A.2. Explorative operation
+Part B. BI dashboard and Information Visualization
+
 ## References
 List of data sources used for each dimension of our conceptual design.
 - Game Dimension
