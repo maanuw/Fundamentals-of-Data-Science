@@ -13,7 +13,6 @@ Implement a dimensional model detailing initial design of the project Data Mart
 - Detailed conceptualization of the dimensions and dimensional attributes.
 - Detailed conceptualization of the measures and facts attributes.
 - Detailed explaination of assumptions carried on.
-- Detailed summarization of "10 Design mistakes" avoided or handled through the conceptualization process.
 
 ## [Deliverable 2 - Physical Design](https://github.com/maanuw/Fundamentals-of-Data-Science/tree/main/Physical-Design-Deliverable-2)
 Converting the conceptual design from the first deliverable into a physical design by following the ETL(Extraction, Transform and Load) data staging steps.
