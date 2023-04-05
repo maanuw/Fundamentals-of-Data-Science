@@ -1,11 +1,3 @@
-## Deliverable 2 - Physical Design
-Converting the conceptual design from the first deliverable into a physical design by following the ETL(Extraction, Transform and Load) data staging steps.
-Populated the Data Mart as follows:
-- Extracting data from various sources. (Check out the reference section of this document)
-- Transformation: Data cleaning (handling missing values, typos, and outliers, removing duplicates, converting data types etc.) 
-transforming the data into a format that can be used for analysis (i.e., normalizing or scaling the data), data integration, data discretization (i.e., converting continuous data into discrete data by grouping it into bins or categories), Feature engineering (i.e., creating new features from existing data that may be more relevant or useful for analysis). This step may also involve aggregating or summarizing data.
-- Loading: Loading the final integrated dataset.
-Finally creating the the data mart using a Database Management system. (Postgres).
 
 ## Implementation
 - We sourced our data as shown in the References section.
