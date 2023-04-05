@@ -87,4 +87,3 @@ Essentially, we intend to use the metric as a standard time required to finish a
 - We assume that the sample used to get the review scores and measure the playtime of a
 game is representative of all its player base.
 
-## Issues and Challenges:
