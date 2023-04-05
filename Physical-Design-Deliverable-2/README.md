@@ -1,11 +1,3 @@
-## Deliverable 2 - Physical Design
-Converting the conceptual design from the first deliverable into a physical design by following the ETL(Extraction, Transform and Load) data staging steps.
-Populated the Data Mart as follows:
-- Extracting data from various sources. (Check out the reference section of this document)
-- Transformation: Data cleaning (handling missing values, typos, and outliers, removing duplicates, converting data types etc.) 
-transforming the data into a format that can be used for analysis (i.e., normalizing or scaling the data), data integration, data discretization (i.e., converting continuous data into discrete data by grouping it into bins or categories), Feature engineering (i.e., creating new features from existing data that may be more relevant or useful for analysis). This step may also involve aggregating or summarizing data.
-- Loading: Loading the final integrated dataset.
-Finally creating the the data mart using a Database Management system. (Postgres).
 
 ## Implementation
 - We sourced our data as shown in the References section.
@@ -13,18 +5,22 @@ Finally creating the the data mart using a Database Management system. (Postgres
 - Our Working and explaination for the Extraction and transformation for the dimensions is available here:
 - [Publisher Dimention](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/Publisher.ipynb)
 - [Game Dimension](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/game.ipynb)
+- [Console Dimension](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/Console.ipynb)
+- [Fact Table](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/Merge_to_FTable.ipynb)
 
 ## Challenges
 - The domain chosen by our team surprisingly has very scarcely available open source data.
 - Our team had to source data from multiple sources in order for us to be able to converge these data points into our data mart.
 - Our sourced data required alot of preprocessing.
 - We had to find methods to deal with missing data as explained in the Game Dimension notebook.
+- Missing values, if it was a primary key then we could try to delete it but if it was an integer we would find other ways to fill it.
+An example can be, if the value of sales is missing then maybe we can try either using the mean value to fill it or using a AI model to fill it.
+- Duplicated primary key, in this example we would usually try to find more attributes to add to the primary key in order to create the composite key.
+But if for example we have multiple primary keys and we still have duplicates (release_date, name) then we would try to look at the data and find the fake one.
 
 ## Dimensions and Fact table on DBMS
 - DBMS used postgres and pgadmin
 
-## Updated conceptual Design as per new physical design
-![updated-model](../img/model.png)
 
 ## Fact Table Image in database
 ![fact-table](../img/fact_table.png)
@@ -34,5 +30,5 @@ Finally creating the the data mart using a Database Management system. (Postgres
 
 ## Test Queries
 ![fact-table](../img/sql_query.png)
-![fact-table](../img/sql_query2.png)
+![fact-table](../img/query_3.JPG)
 
