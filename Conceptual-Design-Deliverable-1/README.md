@@ -1,5 +1,9 @@
 ## Project Description:
-### Grain: The popularity and sales of a game made by a specific publisher for a specific console.
+This project aims to explore the  sales of the Video Game industry by considering the biggest actors in that ecosystem, 
+namely the Publishers/Developers as well as the platform on which it runs. We will design a Data-mart to make available
+the data needed to perform all kinds of exploration, analysis and predictions. To help us structure this Data-mart, we use the following grain.
+### Grain: 
+The popularity and sales of a game made by a specific publisher for a specific console.
 ## Conceptual model:
 ![updated-model](../img/model.png)
 
