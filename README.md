@@ -30,7 +30,7 @@ Finally creating the the data mart using a Database Management system. (Postgres
 - Part B. BI dashboard and Information Visualization
 
 ## Deliverable 4 - Data Mining
-- [Part a + c: Data exploration and outliers detection](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Delivrable-4/Phase4-a%2Bc.ipynb)
+- [Part a + c: Data exploration and outliers detection](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Delivrable-4/Phase4-a%2Bc.ipynb) by Othmane
 
 ## References
 List of data sources used for each dimension of our conceptual design.
