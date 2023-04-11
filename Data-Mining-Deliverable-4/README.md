@@ -6,7 +6,7 @@
 - [Part-A Jupyter Notebook](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Deliverable-4/Phase4-a+c.ipynb)
 
 ### Part-B: Classification (Supervised Learning):
-- [Part-B Jupyter Notebook](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Deliverable-4/Part-B--classification-supervised-learning.ipynb)
+- [Part-B Jupyter Notebook](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Deliverable-4/Part-B-classification-supervised-learning.ipynb)
 
 ### Part-C: Detecting Outliers: (Bonus)
 - [Part-A Jupyter Notebook](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Deliverable-4/Phase4-a+c.ipynb)
