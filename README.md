@@ -23,11 +23,14 @@ transforming the data into a format that can be used for analysis (i.e., normali
 - Loading: Loading the final integrated dataset.
 Finally creating the the data mart using a Database Management system. (Postgres).
 
-## [Deliverable 3 - OLAP Vizualisation Data Mining](https://github.com/maanuw/Fundamentals-of-Data-Science/tree/main/OLAP-Vizualisation-Data-Mining-Deliverable-3)
+## [Deliverable 3 - OLAP Vizualisation](https://github.com/maanuw/Fundamentals-of-Data-Science/tree/main/OLAP-Vizualisation-Data-Mining-Deliverable-3)
 
 - Part A.1. Standard OLAP operations – 8 queries in total
 - Part A.2. Explorative operation
 - Part B. BI dashboard and Information Visualization
+
+## Deliverable 4 - Data Mining
+- [Part a + c: Data exploration and outliers detection](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Delivrable-4/Phase4-a%2Bc.ipynb)
 
 ## References
 List of data sources used for each dimension of our conceptual design.
