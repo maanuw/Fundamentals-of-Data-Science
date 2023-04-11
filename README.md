@@ -32,6 +32,8 @@ Finally creating the the data mart using a Database Management system. (Postgres
 ## Deliverable 4 - Data Mining
 - [Part a + c: Data exploration and outliers detection](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Delivrable-4/Phase4-a%2Bc.ipynb) by Othmane
 
+- [Part-B Classification (Supervised Learning)](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Deliverable-4/Part-B-classification-supervised-learning.ipynb) by Manav
+
 ## References
 List of data sources used for each dimension of our conceptual design.
 - Game Dimension
