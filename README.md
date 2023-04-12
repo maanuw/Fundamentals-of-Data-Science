@@ -30,9 +30,9 @@ Finally creating the the data mart using a Database Management system. (Postgres
 - Part B. BI dashboard and Information Visualization
 
 ## [Deliverable 4 - Data Mining](https://github.com/maanuw/Fundamentals-of-Data-Science/tree/main/Data-Mining-Deliverable-4)
-- [Part a + c: Data exploration and outliers detection](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Delivrable-4/Phase4-a%2Bc.ipynb) by Othmane
+- [Part a + c: Data exploration and outliers detection](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Delivrable-4/Phase4-a%2Bc.ipynb)
 
-- [Part-B Classification (Supervised Learning)](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Deliverable-4/Part-B-classification-supervised-learning.ipynb) by Manav
+- [Part-B Classification (Supervised Learning)](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Data-Mining-Deliverable-4/Part-B-classification-supervised-learning.ipynb) 
 
 ## References
 List of data sources used for each dimension of our conceptual design.
