@@ -19,7 +19,7 @@ An example can be, if the value of sales is missing then maybe we can try either
 But if for example we have multiple primary keys and we still have duplicates (release_date, name) then we would try to look at the data and find the fake one.
 
 ## Dimensions and Fact table on DBMS
-- DBMS used postgres and pgadmin
+- [DBMS used postgres and pgadmin](https://github.com/maanuw/Fundamentals-of-Data-Science/blob/main/Physical-Design-Deliverable-2/transformation/fact_table_push.py)
 
 
 ## Fact Table Image in database

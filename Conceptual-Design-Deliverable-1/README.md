@@ -67,7 +67,6 @@ Console dimension is a list of all the video game consoles.
 | JP_Sales                           | float    | Measure of sales in Japan.                             |
 | Other_Sales                        | float    | Measure of sales in other countries.                   |
 | Global_Sales                       | float    | Measure of global sales.                               |
-| Popularity_Votes                   | float    | Measure of popularity votes for a specific game,       |
 
 
 ## Assumptions:
