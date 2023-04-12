@@ -49,3 +49,6 @@ This query uses the AVG window function to calculate the moving average of globa
 ## Drill Down
 
 ![vizualition](../img/drill_down.JPG)
+
+PowerBI link:
+[PowerBi file - PowerBi file](https://github.com/maanuw/Fundamentals-of-Data-Science/tree/main/OLAP-Vizualisation-Data-Mining-Deliverable-3/video_games.pbix)
