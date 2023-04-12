@@ -26,14 +26,26 @@ This query uses the AVG window function to calculate the moving average of globa
 
 # Vizualisation
 
-## Dice operation : Taking the subset of global sales (EU Sales)
+## Slice
 
-![vizualition](../img/vizualisation_1.JPG)
+![vizualition](../img/Slice.JPG)
 
-## Number of Sales in Japan per console
+## Dice
 
-![vizualition](../img/vizualisation_2.JPG)
+![vizualition](../img/Dice.JPG)
 
-## Genre that sold the most games
+## topN
 
-![vizualition](../img/vizualisation_3.JPG)
+![vizualition](../img/topN.JPG)
+
+## bottomN
+
+![vizualition](../img/bottomN.JPG)
+
+## Roll Up
+
+![vizualition](../img/roll_up_2.JPG)
+
+## Drill Down
+
+![vizualition](../img/drill_down.JPG)
